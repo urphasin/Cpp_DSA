@@ -1,0 +1,25 @@
+# Compiled binary files
+a.out
+*.out
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+
+# Executables (no extension, Unix-style)
+myprogram
+main
+test
+run
+
+# Generated dependency files
+*.d
+
+# IDE and build system folders
+/build/
+/bin/
+/dist/
+/CMakeFiles/
+/Makefile
+CMakeCache.txt
