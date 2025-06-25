@@ -12,6 +12,7 @@ myprogram
 main
 test
 run
+a
 
 # Generated dependency files
 *.d

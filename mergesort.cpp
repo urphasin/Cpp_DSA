@@ -13,8 +13,12 @@ int main() {
 
   MergeSort(nu);
 
-  for(int v : nu) {
-    cout << v << ", ";
+  int i = 0;
+  for (int v : nu)
+  {
+    cout << v;
+    if (i != nu.size() - 1) cout << ", ";
+    ++i;
   }
 
   cout << endl;
